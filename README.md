@@ -1,2 +1,2 @@
 # test
-练习使用GitHub
+了解 GitHub
