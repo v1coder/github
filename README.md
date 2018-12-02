@@ -1,11 +1,13 @@
 
 # GitHub 简介
 
+<br>
+
 git是一个版本控制工具，github是一个用git做版本控制的项目托管平台。
 
 <br>
 
-#### 主页介绍：
+### 主页介绍：
 
 ![](https://upload-images.jianshu.io/upload_images/9691564-c46d54ebaeffd1d7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
