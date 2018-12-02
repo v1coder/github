@@ -1,5 +1,5 @@
 <br>
-###GitHub 简介
+### GitHub 简介
 
 git是一个版本控制工具，github是一个用git做版本控制的项目托管平台。
 
