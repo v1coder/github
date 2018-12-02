@@ -47,6 +47,13 @@ git是一个版本控制工具，github是一个用git做版本控制的项目�
 
 commits 提交历史，也就是代码库的修改记录
 
+![](https://upload-images.jianshu.io/upload_images/9691564-42b28d105d4bb662.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+有些项目有这条彩条，点击彩条，会显示项目所有的编程语言及其比例。
+
+![](https://upload-images.jianshu.io/upload_images/9691564-c359a08a33ff7682.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 
 <br>
 
