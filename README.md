@@ -20,7 +20,7 @@ following：你关注的人
 
 <br>
 
-#### 创建库
+### 创建库
 
 ![](https://upload-images.jianshu.io/upload_images/9691564-1ef2ac664fad15dc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -33,7 +33,7 @@ following：你关注的人
 
 <br>
 
-#### 代码库页面介绍
+### 代码库页面介绍
 
 ![](https://upload-images.jianshu.io/upload_images/9691564-92a6e548b45658e3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -50,7 +50,7 @@ commits 提交历史，也就是代码库的修改记录
 
 <br>
 
-#### 把代码库复制到桌面客户端
+### 把代码库复制到桌面客户端
 
 注意：库内必须有文件
 
@@ -58,7 +58,7 @@ commits 提交历史，也就是代码库的修改记录
 
 <br>
 
-#### 删除代码库
+### 删除代码库
 
 ![](https://upload-images.jianshu.io/upload_images/9691564-82cd6634893710fd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
