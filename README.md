@@ -70,3 +70,12 @@ commits 提交历史，也就是代码库的修改记录
 ![](https://upload-images.jianshu.io/upload_images/9691564-82cd6634893710fd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![](https://upload-images.jianshu.io/upload_images/9691564-9fb1a2bfc96e6842.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+<br>
+___
+<br>
+问题：
+在上传 GitHub 的文件里，包含了不想公开的信息
+解决方法：
+只有删除库才能彻底删除。
+如果只删除该文件，在提交记录里还会显示
