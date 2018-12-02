@@ -27,9 +27,9 @@ git是一个版本控制工具，github是一个用git做版本控制的项目�
 ![](https://upload-images.jianshu.io/upload_images/9691564-623eeca11c389cab.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
- `README` 文件，说明文件，里面记载库的介绍或注意事项。使用markdown语法。在打开GitHub库的时候会默认展示README文件。
-`license` 文件，许可证，GitHub预设了很多开源许可证
-`.gitignore` 文件，列出要GitHub忽略的文件，比如：忽略操作系统自动生成的文件，忽略编译生成的中间文件、可执行文件等，忽略带有敏感信息的配置文件
+- `README` 文件，说明文件，里面记载库的介绍或注意事项。使用markdown语法。在打开GitHub库的时候会默认展示README文件。
+- `license` 文件，许可证，GitHub预设了很多开源许可证
+- `.gitignore` 文件，列出要GitHub忽略的文件，比如：忽略操作系统自动生成的文件，忽略编译生成的中间文件、可执行文件等，忽略带有敏感信息的配置文件
 
 <br>
 
@@ -37,9 +37,9 @@ git是一个版本控制工具，github是一个用git做版本控制的项目�
 
 ![](https://upload-images.jianshu.io/upload_images/9691564-92a6e548b45658e3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-watch 关注库
-star 给库加星（加星相当于点赞+收藏）
-Fork 转载库
+- watch 关注库
+- star 给库加星（加星相当于点赞+收藏）
+- Fork 转载库
 （fork 别人的库，相当于在你的账号下从原库新建了一个分支。如果有希望提交给原作者的成果，可以发合并申请（Pull Request））
 
 
