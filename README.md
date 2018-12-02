@@ -13,9 +13,13 @@ git是一个版本控制工具，github是一个用git做版本控制的项目�
 
 
 overview：总览。相当于个人主页。
+
 repositories：拥有的代码库（通常一个代码库就是一个项目）
+
 stars：你加星的代码库。加星相当于对代码库收藏+点赞。
+
 followers：关注你的人
+
 following：你关注的人
 
 <br>
