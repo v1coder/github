@@ -4,7 +4,7 @@
 
 
 2. 检查是否已经有SSH Key：
-    
+  
     >cd ~/.ssh
     
     >ls
@@ -38,9 +38,21 @@
 
    5.1 
    在刚刚安装成功的提示中有文件位置
-   
+
    ![](https://upload-images.jianshu.io/upload_images/9691564-227e65ce11905591.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-   
+
    在此找到“id_rsa.pub”文件，打开，复制内容到剪贴板。
-   
+
    5.2 打开 https://github.com/settings/ssh ，点击 Add SSH Key 按钮，粘贴进去保存即可。
+
+6. 测试：
+
+   ```
+   ssh -T git@github.com
+   ```
+
+   你将会看到：
+
+   > Hi yourname! You’ve successfully authenticated, but GitHub does not provide shell access.
+
+   如果看到Hi后面是你的用户名，就说明成功了。
