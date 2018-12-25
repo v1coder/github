@@ -18,6 +18,8 @@ git是一个版本控制工具，github是一个用git做版本控制的项目�
 - followers：关注你的人
 - following：你关注的人
 
+`Overview` 下的 `Popular repositories`，是按 star 和 fork 数量显示了你“最受欢迎的”代码库，你也可以点击 `Customize your pinned repositories` 指定最想展示的6个代码库
+
 <br>
 
 ### 创建库
