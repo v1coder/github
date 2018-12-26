@@ -42,7 +42,12 @@ git是一个版本控制工具，github是一个用git做版本控制的项目�
 - watch 关注库
 - star 给库加星（加星相当于点赞+收藏）
 - Fork 转载库
-（fork 别人的库，相当于在你的账号下从原库新建了一个分支。如果有希望提交给原作者的成果，可以发合并申请（Pull Request））
+  （fork 别人的库，相当于在你的账号下从原库新建了一个分支。如果有希望提交给原作者的成果，可以发合并申请（Pull Request））
+
+Fork 有两种用途：一种是你要参与它，为它提交代码；另一种是防止这个仓库被原作者删除。
+Fork 出来一份，即使作者删除，我这里也有一个 Fork 那个时间点的版本快照。不过要注意，Fork 出来的版本是不会随着原始仓库自动更新的。理想情况下，后一种情况算是误用。
+
+<br>
 
 
 ![](https://upload-images.jianshu.io/upload_images/9691564-88427f101283a2e4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
