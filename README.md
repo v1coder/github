@@ -55,6 +55,8 @@ Fork 出来一份，即使作者删除，我这里也有一个 Fork 那个时间
 
 <br>
 
+<br>
+
 
 ![](https://upload-images.jianshu.io/upload_images/9691564-88427f101283a2e4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -89,7 +91,7 @@ commits 提交历史，也就是代码库的修改记录
 ![](https://upload-images.jianshu.io/upload_images/9691564-9fb1a2bfc96e6842.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 <br>
-____
+---
 
 <br><br>
 
