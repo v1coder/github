@@ -8,7 +8,7 @@
 
 ![](https://raw.githubusercontent.com/v1coder/github/master/image/1.png)
 
-上图变成下图
+（上图变成下图）
 
 ![](https://raw.githubusercontent.com/v1coder/github/master/image/2.png)
 
